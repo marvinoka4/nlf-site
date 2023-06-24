@@ -187,6 +187,7 @@ ol.numbered-large {
   font-size: rem-calc(15px);
   font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
   text-transform: uppercase;
+  text-decoration: none !important;
   letter-spacing: 1px;
 }
 
@@ -194,6 +195,7 @@ ol.numbered-large {
   color: get-color(light) !important;
   font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
   text-transform: uppercase;
+  text-decoration: none !important;
   letter-spacing: 1px;
 }
 
