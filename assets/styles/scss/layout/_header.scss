@@ -14,7 +14,8 @@ HEADER STYLES
   border-radius: $nav-radius;
   color: white;
   text-decoration: none;
-  font-size: rem-calc(12px);
+  font-size: rem-calc(13px);
+  letter-spacing: 1px;
   display: inline-block;
   padding: 0.2rem 0.8rem;
   &:hover {
