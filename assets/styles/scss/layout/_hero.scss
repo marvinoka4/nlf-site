@@ -11,10 +11,8 @@
   .grid-x {
     min-height: 400px;
     height: 60vh;
-    padding-bottom: 5vh;
     @include breakpoint(large) {
       min-height: 70vh;
-      padding-bottom: 5vh;
     }
   }
 }

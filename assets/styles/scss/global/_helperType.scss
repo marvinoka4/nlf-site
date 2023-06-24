@@ -199,6 +199,13 @@ ol.numbered-large {
   letter-spacing: 1px;
 }
 
+.p-phone {
+  color: get-color(light) !important;
+  font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
 //for safari auto-formatting for phone numbers
 .phone-no a, .phone-no a:link, .phone-no a:visited, .phone-no a:hover, .phone-no a:active, .phone-no a:focus {
   text-decoration: none;
@@ -215,3 +222,5 @@ a[href^="tel"] {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+p-prime
