@@ -99,7 +99,7 @@
 
     <div class="grid-container full rellax">
         <div class="grid-x">
-            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-criminal-law.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/criminal-law.jpg, medium]">
+            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 100vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-criminal-law.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/criminal-law.jpg, medium]">
                 <div class="filter filter-primary-gradient"></div>
             </div>
         </div>
@@ -108,10 +108,14 @@
     <div id="immigration" class="relative" style="z-index:500;">
         <div class="grid-container">
             <div class="grid-x grid-padding-x align-middle align-center" style="min-height: 70vh;max-width:600px;margin:auto;">
-                <div class="small-12 medium-12 large-12 cell flex-container align-middle align-center">
-                    <div class="buildIn-fadeInUp ">
+                <div class="small-12 medium-12 large-12 cell flex-container align-middle align-center  padding-vertical-2">
+                    <div class="buildIn-fadeInUp">
                         <h2 class="super-sub-heading">Our Mission</h2>
                         <p class="margin-bottom-2"> We are a multidisciplinary law firm representing individuals, small to mid-sized companies, and organizations of any size. Our mission is to provide client-oriented, efficient, effective and results-driven legal services at affordable prices. </p>
+
+                        <h2 class="super-sub-heading padding-top-2">Our Vision</h2>
+                        <p class="margin-bottom-2"> We are a multidisciplinary law firm representing individuals, small to mid-sized companies, and organizations of any size. Our mission is to provide client-oriented, efficient, effective and results-driven legal services at affordable prices. </p>
+
                         <a href="#" class="button primary callout-button">Learn More <i class="uil uil-arrow-right"></i></a>
                     </div>
                 </div>

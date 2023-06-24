@@ -72,6 +72,8 @@
             <script>
                 jQuery('#nlf-form').submit( function (event) {
 
+                    let form_enquiry = jQuery('#form-enquiry').val();
+
                     event.preventDefault();
 
                     let endpoint = '<?php echo admin_url('admin-ajax.php'); ?>';
@@ -96,6 +98,7 @@
                             jQuery('#nlf-form').fadeOut(200);
                             jQuery('#success-alert-messages').show();
                             jQuery('#success-alert-messages-text').text('Message delivered successfully!').show();
+                            window.dataLayer.push({'event': 'generate_lead', 'form_enquiry' : form_enquiry, 'form_status' : 'delivered'});
                             jQuery('#nlf-form').trigger('reset');
                             jQuery('#nlf-form').fadeIn(500);
 
@@ -107,6 +110,7 @@
                             jQuery('#nlf-form').fadeOut(200);
                             jQuery('#error-alert-messages').show();
                             jQuery('#error-alert-messages-text').text('Error, please try again!').show();
+                            window.dataLayer.push({'event': 'generate_lead', 'form_enquiry' : form_enquiry, 'form_status' : 'error'});
                             jQuery('#nlf-form').trigger('reset');
                             jQuery('#nlf-form').fadeIn(500);
 

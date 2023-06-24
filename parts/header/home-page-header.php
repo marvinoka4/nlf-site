@@ -29,8 +29,7 @@
                     <h1 class="margin-bottom-0 copper-text heading-large">Highly Professional Legal Team Here To Serve You!</h1>
                     <p>Affordable Legal Services that you can <strong>Trust</strong>.</p>
 
-                    <a href="#" class="button secondary margin-bottom-3">Start with a Free Consultation</a>
-                    <p class="text-small">You can also check our wealth of knowledge! <a href="#" title="Nnabugwu Law Firm">Check our resource base here.</a></p>
+                    <a href="#" id="cta-hero" class="button secondary margin-bottom-3 click-tracker">Start with a Free Consultation</a>
                 </div>
             </div>
         </div>

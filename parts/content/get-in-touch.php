@@ -17,7 +17,7 @@
 
                         <h3 class="text-center">- or -</h3>
 
-                        <a href="#" class="button expanded secondary large cta-button">Book a Free Consultation</a>
+                        <a href="#" id="cta-contact" class="button expanded secondary large cta-button click-tracker">Book a Free Consultation</a>
 
                     </div>
                 </div>

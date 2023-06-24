@@ -34,7 +34,7 @@
                         )
                     ?>
                     <div class="menu show-for-large">
-                        <a class="nav-cta primary button margin-bottom-0 margin-horizontal-1">Free Consultation</a>
+                        <a href="#" id="cta-nav" class="nav-cta primary button margin-bottom-0 margin-horizontal-1 click-tracker">Free Consultation</a>
                     </div>
                     <div class="padding-horizontal-1">
                         <button class="hamburger hamburger--collapse" type="button" data-toggle="off-canvas" aria-label="Mobile Menu" title="Mobile Menu">
