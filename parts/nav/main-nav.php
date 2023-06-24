@@ -17,12 +17,12 @@
                 </div>
             </div>
             <div class="grid-x align-middle header-bar">
-                <div class="large-4 medium-6 small-8 cell">
+                <div class="large-2 medium-6 small-8 cell">
                     <a href="/" >
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/util/logo-lateral.svg" width="150" alt="Nnabugwu Law Firm"/>
                     </a>
                 </div>
-                <div class="large-8 medium-6 small-4 cell flex-container align-right align-middle">
+                <div class="large-10 medium-6 small-4 cell flex-container align-right align-middle">
                     <?php
                         wp_nav_menu(
                                 array(

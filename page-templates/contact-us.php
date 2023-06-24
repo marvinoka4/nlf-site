@@ -21,25 +21,25 @@ get_header(); ?>
             <div class="large-6 medium-6 cell">
                 <div class="grid-x grid-padding-x">
                     <div class="large-6 medium-6 cell align-middle">
-                        <div class="primary callout light">
+                        <div class="primary callout color-white">
                             <h4 class="margin-bottom-1"><img class="margin-right-1" width="30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/mobile-phone.svg" alt="Structured Growth">Phone</h4>
                             <a href="tel:+1-281-501-1512" class="phone-no"><p class="p-phone">(281) 501-1512</p></a>
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell">
-                        <div class="primary callout light">
+                        <div class="primary callout color-white">
                             <h4 class="margin-bottom-1"><img class="margin-right-1" width="30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/fax.svg" alt="Structured Growth"> Fax</h4>
                             <a href="tel:+1-281-783-2998" class="phone-no"><p class="p-phone">(281) 783-2998</p></a>
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell">
-                        <div class="primary callout">
+                        <div class="primary callout  color-white">
                             <h4 class="margin-bottom-1"><img class="margin-right-1" width="30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/envelope-o.svg" alt="Structured Growth"> Email</h4>
                             <p>info@nnabugwulawfirm.com</p>
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell">
-                        <div class="primary callout">
+                        <div class="primary callout  color-white">
                             <h4 class="margin-bottom-1"><img class="margin-right-1" width="30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/building-o.svg" alt="Structured Growth"> Office</h4>
                             <p>9900 Westpark dr suite 305, Houston, TX 77063</p>
                         </div>
