@@ -26,12 +26,12 @@
                     <div class="grid-x grid-padding-x">
                         <div class="large-12 medium-12 cell">
                             <h4 class="margin-top-1">Why Choose Us?</h4>
-                            <ul class="checklist">
+                            <ol class="numbered-large">
                                 <li>Experienced Legal Professionals</li>
                                 <li>Free & Confidential Consultations</li>
                                 <li>Transparent & Competitive Rates</li>
                                 <li>Work with a Team of Professionals</li>
-                            </ul>
+                            </ol>
                         </div>
 
                         <div class="large-12 medium-12 cell align-middle ">
