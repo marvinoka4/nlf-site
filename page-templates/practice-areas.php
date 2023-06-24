@@ -63,22 +63,13 @@ get_header(); ?>
         </div>
     </div>
 
-
-
     <div class="grid-container full rellax">
         <div class="grid-x">
-            <div class="cell large-12 buildIn-fadeIn relative panel-image flex-container align-middle align-center" style="min-height: 60vh; background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-hero-bg-dark.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/hero-bg-dark.jpg, medium]">
+            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-personal-injury-law-2.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/personal-injury-law-2.jpg, medium]">
                 <div class="filter filter-primary-gradient"></div>
-
-                <div class="relative rellax padding-2" data-rellax-speed="-1">
-                    <a href="#"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/nlf.png" width="500" /></a>
-
-                </div>
-
             </div>
         </div>
     </div>
-
 
     <div class="relative" style="z-index:500;">
         <div class="grid-container">
@@ -98,7 +89,7 @@ get_header(); ?>
 
     <div class="grid-container full rellax">
         <div class="grid-x">
-            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-personal-injury-law-2.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/personal-injury-law-2.jpg, medium]">
+            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-immigration-law-1.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/immigration-law-1.jpg, medium]">
                 <div class="filter filter-primary-gradient"></div>
             </div>
         </div>
@@ -120,12 +111,11 @@ get_header(); ?>
 
     <div class="grid-container full rellax">
         <div class="grid-x">
-            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-immigration-law-1.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/immigration-law-1.jpg, medium]">
+            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-family-law-1.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/family-law-1.jpg, medium]">
                 <div class="filter filter-primary-gradient"></div>
             </div>
         </div>
     </div>
-
 
     <div class="relative" style="z-index:500;">
         <div class="grid-container">
@@ -143,7 +133,7 @@ get_header(); ?>
 
     <div class="grid-container full rellax">
         <div class="grid-x">
-            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-family-law-1.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/family-law-1.jpg, medium]">
+            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-criminal-law-2.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/criminal-law-2.jpg, medium]">
                 <div class="filter filter-primary-gradient"></div>
             </div>
         </div>
@@ -166,12 +156,19 @@ get_header(); ?>
 
     <div class="grid-container full rellax">
         <div class="grid-x">
-            <div class="cell large-12 buildIn-fadeIn relative panel-image" style="min-height: 80vh;background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-criminal-law-2.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/criminal-law-2.jpg, medium]">
+            <div class="cell large-12 buildIn-fadeIn relative panel-image flex-container align-middle align-center" style="min-height: 60vh; background-position: center;" data-interchange="[<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/small-hero-bg-dark.jpg, small], [<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/hero-bg-dark.jpg, medium]">
                 <div class="filter filter-primary-gradient"></div>
+
+                <div class="relative rellax padding-2" data-rellax-speed="-1">
+                    <a href="#"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/nlf.png" width="500" /></a>
+
+                </div>
+
             </div>
         </div>
     </div>
 
-    <?php get_template_part('parts/content/get-in-touch');?>
+
+<?php get_template_part('parts/content/get-in-touch');?>
 
 <?php get_footer(); ?>
