@@ -2,7 +2,7 @@
 .no-link-style  {
   a,
   a:hover {
-    text-decoration: none;
+    text-decoration: none !important;
   }
 }
 ul.checklist {
@@ -211,12 +211,4 @@ a[href^="tel"] {
   font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
-}
-a[x-apple-data-detectors].phone-no {
-  color: inherit !important;
-  text-decoration: none !important;
-  font-size: inherit !important;
-  font-family: inherit !important;
-  font-weight: inherit !important;
-  line-height: inherit !important;
 }
