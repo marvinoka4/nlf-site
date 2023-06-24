@@ -23,13 +23,13 @@ get_header(); ?>
                     <div class="large-6 medium-6 cell align-middle">
                         <div class="primary callout">
                             <h4 class="margin-bottom-1"><img class="margin-right-1" width="30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/mobile-phone.svg" alt="Structured Growth">Phone</h4>
-                            <p class="phone-no">(281) 501-1512</p>
+                            <a href="tel:+1-281-501-1512" class="phone-no"><p>(281) 501-1512</p></a>
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell">
                         <div class="primary callout">
                             <h4 class="margin-bottom-1"><img class="margin-right-1" width="30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/fax.svg" alt="Structured Growth"> Fax</h4>
-                            <p class="phone-no">(281) 783-2998</p>
+                            <a href="tel:+1-281-783-2998"  class="phone-no"><p>(281) 783-2998</p></a>
                         </div>
                     </div>
                     <div class="large-6 medium-6 cell">

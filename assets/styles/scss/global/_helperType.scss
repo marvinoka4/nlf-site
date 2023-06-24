@@ -5,7 +5,7 @@
     text-decoration: none;
   }
 }
-a[x-apple-data-detectors] {
+a[x-apple-data-detectors].phone-no {
   color: inherit !important;
   text-decoration: none !important;
   font-size: inherit !important;
@@ -199,10 +199,18 @@ ol.numbered-large {
   letter-spacing: 1px;
 }
 
+//for safari auto-formatting for phone numbers
 .phone-no a, .phone-no a:link, .phone-no a:visited, .phone-no a:hover, .phone-no a:active, .phone-no a:focus {
   text-decoration: none;
   color: get-color(light) !important;
-  font-size: rem-calc(15px);
+  font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+a[href^="tel"] {
+  text-decoration: none;
+  color: get-color(light) !important;
   font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;

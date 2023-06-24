@@ -22,8 +22,8 @@
     <div class="filter filter-primary" style="z-index:197;"></div>
 
     <div class="grid-container relative" style="z-index:200;">
-        <div class="grid-x align-middle align-right">
-            <div class="small-12 medium-12 large-6 cell color-white align-right margin-vertical-4">
+        <div class="grid-x align-bottom align-right">
+            <div class="small-12 medium-12 large-6 cell color-white align-right">
 
                 <div>
                     <h1 class="margin-bottom-0 copper-text heading-large">Highly Professional Legal Team Here To Serve You!</h1>

@@ -13,7 +13,7 @@
                     <a class="header-promo" href="/"> <i class="uil uil-envelope-alt"></i> info@nnabugwulawfirm.com </a>
                 </div>
                 <div class="medium-6 cell text-right">
-                    <p class="margin-bottom-0 p-prime phone-no"><i class="uil uil-mobile-android"></i> (281) 501-1512</p>
+                    <a href="tel:+1-281-501-1512" class="phone-no"><p class="margin-bottom-0 p-prime"><i class="uil uil-mobile-android"></i> (281) 501-1512</p></a>
                 </div>
             </div>
             <div class="grid-x align-middle header-bar">
