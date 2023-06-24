@@ -177,7 +177,7 @@ ol.numbered-large {
 }
 
 .p-prime {
-  color: get-color(light);
+  color: get-color(light) !important;
   font-size: rem-calc(15px);
   font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
   text-transform: uppercase;
