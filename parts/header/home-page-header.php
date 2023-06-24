@@ -1,5 +1,5 @@
 
-<div class="grid-container full hero hero-particles relative bg-primary margin-bottom-3">
+<div class="grid-container full hero hero-particles relative bg-primary margin-bottom-3" style="min-height: 80vh;">
 
     <!-- particles.js container -->
     <div id="particles-js" style="z-index:198;"></div>
