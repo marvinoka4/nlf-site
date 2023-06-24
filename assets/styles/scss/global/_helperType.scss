@@ -1,8 +1,24 @@
 
+.no-link-style  {
+  a,
+  a:hover {
+    text-decoration: none;
+  }
+}
+a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+
 ul.checklist {
   list-style: none;
   margin-left: 0.2rem;
 }
+
 ul.checklist li:before {
   content: '';
   display: inline-block;
@@ -15,7 +31,6 @@ ul.checklist li:before {
   position: relative;
   top: 2px;
 }
-
 
 ol.numbered-large {
   list-style: none;
@@ -177,6 +192,15 @@ ol.numbered-large {
 }
 
 .p-prime {
+  color: get-color(light) !important;
+  font-size: rem-calc(15px);
+  font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.phone-no a, .phone-no a:link, .phone-no a:visited, .phone-no a:hover, .phone-no a:active, .phone-no a:focus {
+  text-decoration: none;
   color: get-color(light) !important;
   font-size: rem-calc(15px);
   font-family: 'Obadiah-Bold', Obadiah, Arial, sans-serif;
