@@ -10,7 +10,7 @@
         <div class="grid-container fluid mw1400">
             <div class="grid-x align-middle top-bar">
                 <div class="medium-6 show-for-medium cell ">
-                    <a class="header-promo" href="/"> <i class="uil uil-envelope-alt"></i> info@nnabugwulawfirm.com </a>
+                    <a class="header-promo" href="mailto:info@nnabugwulawfirm.com"> <i class="uil uil-envelope-alt"></i> info@nnabugwulawfirm.com </a>
                 </div>
                 <div class="medium-6 cell text-right">
                     <a href="tel:+1-281-501-1512" class="phone-no"><p class="margin-bottom-0 p-prime"><i class="uil uil-mobile-android"></i> (281) 501-1512</p></a>
