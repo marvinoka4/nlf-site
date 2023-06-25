@@ -35,7 +35,7 @@ function dragon_enquiry(){
     $send_to = $admin_email;
 
     // subject
-    $subject = "Nnabugwu Law Firm [Website] - " . $form_data['form-enquiry'] . " Enquiry from - " . $form_data['form-name'];
+    $subject = "Nnabugwu Law Firm [Website] - " . $form_data['form-enquiry'] . " Enquiry - " . $form_data['form-name'];
 
     // message
     $message = '';
