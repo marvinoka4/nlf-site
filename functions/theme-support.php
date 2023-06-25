@@ -11,6 +11,8 @@ function dragon_theme_support(){
 
 add_action('after_setup_theme', 'dragon_theme_support');
 
+
+// custom web form
 add_action('wp_ajax_nlf-form', 'dragon_enquiry');
 add_action('wp_ajax_nopriv_nlf-form', 'dragon_enquiry');
 
@@ -33,7 +35,7 @@ function dragon_enquiry(){
     $send_to = $admin_email;
 
     // subject
-    $subject = "Nnabugwu Law Firm Website " . $form_data['form-enquiry'] . " Enquiry from " . $form_data['form-name'] . ' ' . $form_data['form-email'];
+    $subject = "Nnabugwu Law Firm [Website] - " . $form_data['form-enquiry'] . " - Enquiry from " . $form_data['form-name'];
 
     // message
     $message = '';
