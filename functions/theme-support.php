@@ -58,9 +58,3 @@ function dragon_enquiry(){
     }
 
 }
-
-//
-add_filter( 'wp_mail_smtp_custom_options', function( $phpmailer ) {
-    $phpmailer->AuthType = 'LOGIN';
-    return $phpmailer;
-} );
