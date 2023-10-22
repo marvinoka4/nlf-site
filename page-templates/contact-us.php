@@ -15,7 +15,7 @@ get_header(); ?>
                     <h6 class="copper-text">  <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/util/scale_head.svg" alt="little-scale"> We are easy to reach</h6>
                     <h3>Get in Touch</h3>
                 </div>
-                <p>Nnabugwu Law Firm PLLC are highly professional experts in their legal work! With an impeccable reputation and an impressive breadth of knowledge, we are one of the best! We take your case very seriously and will work very hard to bring you RESULTS!</p>
+                <p class="text-justify">Nnabugwu Law Firm PLLC are highly professional experts in their legal work! With an impeccable reputation and an impressive breadth of knowledge, we are one of the best! We take your case very seriously and will work very hard to bring you RESULTS!</p>
             </div>
 
             <div class="large-6 medium-6 cell">

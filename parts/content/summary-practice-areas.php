@@ -22,7 +22,7 @@
                             </div>
                             <div class="grid-x grid-padding-x align-middle padding-top-2">
                                 <div class="cell">
-                                    <p>Hurt in an accident? Let us work tirelessly for you and strive hard to obtain the highest recoveries required by law!</p>
+                                    <p class="text-justify">Hurt in an accident? Let us work tirelessly for you and strive hard to obtain the highest recoveries required by law!</p>
                                 </div>
                             </div>
                             <div class="text-right">
@@ -42,7 +42,7 @@
                             </div>
                             <div class="grid-x grid-padding-x align-middle padding-top-2">
                                 <div class="cell">
-                                    <p>For all your immigration needs ranging from: Citizenship, Deportation, etc., let us take care of you now! </p>
+                                    <p class="text-justify">For all your immigration needs ranging from: Citizenship, Deportation, etc., let us take care of you now! </p>
                                 </div>
                             </div>
                             <div class="text-right">
@@ -62,7 +62,7 @@
                             </div>
                             <div class="grid-x grid-padding-x align-middle padding-top-2">
                                 <div class="cell">
-                                    <p>We help clients with all family law services: Divorce, Child Support, Spousal Support, Adoption, etc. </p>
+                                    <p class="text-justify">We help clients with all family law services: Divorce, Child Support, Spousal Support, Adoption, etc. </p>
                                 </div>
                             </div>
                             <div class="text-right">
@@ -82,7 +82,7 @@
                             </div>
                             <div class="grid-x grid-padding-x align-middle padding-top-2">
                                 <div class="cell">
-                                    <p>We help you with ALL criminal charges ranging from DUI & DWI, Theft, Forgery, Assault, Fraud, etc.</p>
+                                    <p class="text-justify">We help you with ALL criminal charges ranging from DUI & DWI, Theft, Forgery, Assault, Fraud, etc.</p>
                                 </div>
                             </div>
                             <div class="text-right">
@@ -111,10 +111,10 @@
                 <div class="small-12 medium-12 large-12 cell flex-container align-middle align-center  padding-vertical-2">
                     <div class="buildIn-fadeInUp">
                         <h2 class="super-sub-heading">Our Mission</h2>
-                        <p class="margin-bottom-2"> We are a multidisciplinary law firm representing individuals, small to mid-sized companies, and organizations of any size. Our mission is to provide client-oriented, efficient, effective and results-driven legal services at affordable prices. </p>
+                        <p class="margin-bottom-2 text-justify"> We are a multidisciplinary law firm representing individuals, small to mid-sized companies, and organizations of any size. Our mission is to provide client-oriented, efficient, effective and results-driven legal services at affordable prices. </p>
 
                         <h2 class="super-sub-heading padding-top-2">Our Vision</h2>
-                        <p class="margin-bottom-2"> We are a multidisciplinary law firm representing individuals, small to mid-sized companies, and organizations of any size. Our mission is to provide client-oriented, efficient, effective and results-driven legal services at affordable prices. </p>
+                        <p class="margin-bottom-2 text-justify"> We are a multidisciplinary law firm representing individuals, small to mid-sized companies, and organizations of any size. Our mission is to provide client-oriented, efficient, effective and results-driven legal services at affordable prices. </p>
 
                         <a href="#" class="button primary callout-button">Learn More <i class="uil uil-arrow-right"></i></a>
                     </div>
