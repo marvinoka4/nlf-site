@@ -41,7 +41,7 @@ get_header(); ?>
                     <div class="large-6 medium-12 cell">
                         <div class="primary callout color-white no-link-style">
                             <h4 class="margin-bottom-1"><img class="margin-right-1" width="30" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/fa/building-o.svg" alt="Structured Growth"> Office</h4>
-                            <p>9900 Westpark dr suite 305, Houston, TX 77063</p>
+                            <p>11011 Richmond Avenue, Suite 880, Houston, TX 77042</p>
                         </div>
                     </div>
                 </div>
@@ -73,8 +73,12 @@ get_header(); ?>
             </div>
 
             <div class="small-12 large-6 medium-6 cell align-center-middle align-center" style="overflow: hidden">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.95285603036!2d-95.53844205852107!3d29.721124833918232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640c31e72dc9ccf%3A0x418e7ec87e2646a4!2s9900%20Westpark%20Dr%2C%20Houston%2C%20TX%2077063%2C%20USA!5e0!3m2!1sen!2suk!4v1687544141254!5m2!1sen!2suk" width="100%" height="450" style="border:0; border-radius: 2px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.7427695753604!2d-95.57349038836972!3d29.727209533426834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640dcd05e72e167%3A0x148e2eb0a0d529c1!2s11011%20Richmond%20Ave.%2C%20Houston%2C%20TX%2077042%2C%20USA!5e0!3m2!1sen!2suk!4v1699808023326!5m2!1sen!2suk" width="100%" height="450" style="border:0; border-radius: 2px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
+
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.7427695753604!2d-95.57349038836972!3d29.727209533426834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640dcd05e72e167%3A0x148e2eb0a0d529c1!2s11011%20Richmond%20Ave.%2C%20Houston%2C%20TX%2077042%2C%20USA!5e0!3m2!1sen!2suk!4v1699808023326!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
         </div>
 
     </div>
